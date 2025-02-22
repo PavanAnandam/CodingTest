@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7nVXMVnTx2hL/rP/z0NPG7Vmro4NVQn+xW6ARMoC77M=",
+  "Source": "EasyGroceriesApi",
+  "BasePath": "_content/EasyGroceriesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "EasyGroceriesApi.Controller.GroceriesController",
+    "Method": "GetGroceries",
+    "RelativePath": "api/Groceries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyGroceriesApi.Controller.OrderController",
+    "Method": "PlaceOrder",
+    "RelativePath": "api/Order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "EasyGroceriesApi.Models.Order",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyGroceriesApi.Controller.OrderController",
+    "Method": "GetLatestOrder",
+    "RelativePath": "api/Order/latest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
